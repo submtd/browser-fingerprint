@@ -1,0 +1,17 @@
+{
+    "name": "submtd/browser-fingerprint",
+    "description": "Generate a fingerprint for a specific user/computer/browser",
+    "authors": [
+        {
+            "name": "Steve Harmeyer",
+            "email": "sharmeyer@dbd.net"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Submtd\\BrowserFingerprint\\": "src/"
+        }
+    }
+}
